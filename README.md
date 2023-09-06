@@ -14,7 +14,7 @@ Here, I have taken a dataset containing information about movies released on Net
 For the exploratory analysis to be performed well using Python, I took some efforts to clean the data in excel and then the data is imported into the Jupyter notebook. Being a begineer I first performed some basic operations using Lists and Dictioneries in first 4 steps. The actual exploratory analysis starts after that.
 
 ### The " [first_project (1).ipynb](https://github.com/nikhilkhawase/NIKhil_khawase_projects/blob/main/first_project%20(1).ipynb) " 
-thisfile is the Jupyter notebook in which the exploratory analysis has been performed.
+this file is the Jupyter notebook in which the exploratory analysis has been performed.
 ### The " [Netflix Dataset Latest 2021](https://github.com/nikhilkhawase/NIKhil_khawase_projects/blob/main/Netflix%20Dataset%20Latest%202021.xlsx) " 
 this file contens the actual data that I took into consideration for the project.
 ### The " [netflix_data_cleaned](https://github.com/nikhilkhawase/NIKhil_khawase_projects/blob/main/netflix_data_cleaned.csv) " 
