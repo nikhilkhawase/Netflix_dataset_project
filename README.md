@@ -2,7 +2,7 @@
 ![image](https://github.com/nikhilkhawase/NIKhil_khawase_projects/assets/108681269/4817aefa-2cc5-4c8e-b2ac-24182a0ae81c)
 
 
-# My first project:
+# Netflix_dataset_project:
 
 ## Purpose:
 This project is the beginning of my journey. Here, I have applied some intermediate level techniques that I learned using Python. This project shows the exploratory analysis I performed to reach at the solution.
